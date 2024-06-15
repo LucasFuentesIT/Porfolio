@@ -135,7 +135,8 @@ footer p {
 }
 
 .card img {
-    /* height: 42vh; */
+    height: 42vh;
+    object-fit: cover;
     width: 100%;
 }
 
